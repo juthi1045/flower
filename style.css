@@ -1,0 +1,153 @@
+
+.btn-primary {
+    border-radius: 5px;
+    background: rgb(247, 38, 143);
+    border: 0;
+    color: white;
+    font-size: 30px;
+    font-weight: 100;
+    padding: 5px 10px
+    
+}
+.juthi {
+    background-color: hsl(311, 61%, 84%);
+    height: 400px;
+    image-orientation: initial;
+
+}
+.side {
+    display: flex;
+}
+.img3333 {
+    display: flex;
+}
+.first2 {
+    display: flex;
+}
+.services {
+    display: flex;
+}
+.featured-flowers {
+    display: flex;
+    column-gap: 10px;
+    grid-template-rows: none; 
+    text-align: center;
+}
+.profile2 {
+    display: flex;
+    text-align: left;
+    padding: 0%;
+}
+
+.img1{
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    background:hsl(330, 70%, 89%)
+
+
+}
+.img2 {
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    background: powderblue;
+
+    
+
+}
+.img3 {
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+   background: rgb(211, 228, 230);
+}
+.featured-flowers{
+    align-items: center;
+
+}
+
+.flower-card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.service{
+    background-color: #e1eef7;
+    display: flex;
+    text-align: center;
+    row-gap: 10px;
+}
+.btn2-primary {
+    border-radius: 5px;
+    background: rgb(247, 38, 143);
+    color: white;
+    font-size: 30px;
+    font-weight: 100;
+    padding: 5px 20px;
+    text-align: center;
+}
+.Deal {
+    text-align: center;
+    font-size: large;
+}
+.para {
+    text-align: center;
+    font-size: small;
+}
+.profile2 {
+    display: flex;
+}
+.Instagram {
+    text-align: center;
+    display: flex;
+    padding: 20px;
+    width: 30px;
+}
+.orange {
+    color: #f67519;
+}
+footer {
+    background-color: hsl(0, 14%, 83%);
+    color: #2a1515;
+    text-align: center;
+    padding: 20px;
+}
+.iccha {
+    display: flex;
+}
+.Deal {
+    text-align: center; 
+}
+    .services {
+        text-align: center;
+        display: flex;
+        padding: auto;
+        
+
+    }
+.img4 {
+    
+    background:hwb(330 93% 4%);
+}
+.img5 {
+      background: #eaf1b0;
+
+    
+
+}
+.img6 {
+     background: hwb(20 51% 16%);
+}
+.img7 {
+    background: #c3ced6;
+
+}
+
+
+footer p {
+    font-size: 14px;
+}
+
+
+
+
+
